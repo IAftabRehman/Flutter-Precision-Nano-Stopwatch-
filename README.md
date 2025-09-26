@@ -45,6 +45,30 @@ It helps you to:
 
 ---
 
+### 📱 Screenshots
+
+| Splash Screen                                               |
+|-------------------------------------------------------------|
+| <img src="assets/screenShots/splashScreen.png" width="250"> |
+
+| Home Screen                                               |
+|-----------------------------------------------------------|
+| <img src="assets/screenShots/homeScreen.png" width="250"> |
+
+| Dark Mode Screen                                        |
+|---------------------------------------------------------|
+| <img src="assets/screenShots/darkMode.png" width="250"> |
+
+| Start Screen                                               |
+|------------------------------------------------------------|
+| <img src="assets/screenShots/startScreen.png" width="250"> |
+
+| Stop Screen                                               |
+|-----------------------------------------------------------|
+| <img src="assets/screenShots/stopScreen.png" width="250"> |
+
+---
+
 ### 🏁 Getting Started
 
 To get started with this project, follow these steps:
